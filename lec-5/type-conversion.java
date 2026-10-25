@@ -4,16 +4,13 @@ public class type_conversion {
         // (byte to int)
         byte b = 24;
         int i;
-
         i = b;
         System.out.println(i); // 24
 
         // character to int
         char c = 'a';
         int i1;
-
         i1 = c;
-
         System.out.println(i1); // 97
 
         // 2. Explicit conversion
