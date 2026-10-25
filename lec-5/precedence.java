@@ -8,7 +8,6 @@ public class precedence {
         double d = .1234; 
 
         double result = (f * b) + (i / c) - (d * s);
-
         // f * b --> float
         // i / c --> integer
         // d * s --> double
