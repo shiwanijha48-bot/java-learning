@@ -13,7 +13,6 @@ public class precedence {
         // d * s --> double
 
         // float + integer --> float - double --> double
-
         System.out.println((f * b) + " + " + (i / c) + " - " + (d * s));
         System.out.println("result = " + result);
     }

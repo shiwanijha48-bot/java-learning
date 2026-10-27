@@ -34,7 +34,6 @@ public class type_conversion {
         int i4;
 
         // i4 = bool;
-        
         byte by = 50;
         by = (byte) (by * 2); // 100
 
